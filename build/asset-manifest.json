@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buildriseshine/api/reactjs/food-nutrition/static/css/main.f63e4bfb.css",
+    "main.js": "/buildriseshine/api/reactjs/food-nutrition/static/js/main.1cbadfda.js",
+    "static/js/787.06519866.chunk.js": "/buildriseshine/api/reactjs/food-nutrition/static/js/787.06519866.chunk.js",
+    "static/media/BG.png": "/buildriseshine/api/reactjs/food-nutrition/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/buildriseshine/api/reactjs/food-nutrition/index.html",
+    "main.f63e4bfb.css.map": "/buildriseshine/api/reactjs/food-nutrition/static/css/main.f63e4bfb.css.map",
+    "main.1cbadfda.js.map": "/buildriseshine/api/reactjs/food-nutrition/static/js/main.1cbadfda.js.map",
+    "787.06519866.chunk.js.map": "/buildriseshine/api/reactjs/food-nutrition/static/js/787.06519866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f63e4bfb.css",
+    "static/js/main.1cbadfda.js"
+  ]
+}
